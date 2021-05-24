@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <br>
 
-- 📫 How to reach me **Connect With Me Linkedin**
+- 📫 How to reach me **Connect With Me on Linkedin**
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning Reactjs
 - 👯 I’m looking to collaborate on open source
