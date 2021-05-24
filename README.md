@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jaypal Koli</h1>
-<h3 align="center">I am trying to Figure-Out Stuff!!</h3>
+<h3 align="center">I am trying to Figure-Out Stuff!</h3>
 <div> </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypal07&label=Profile%20views&color=129e00&style=plastic" alt="jaypal07" /> </p>-->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<br>
 
-
-- 📫 How to reach me **kolijaypal47@gmail.com**
-
-- ⚡ Fun fact **I think I am funny XD**
+- 📫 How to reach me **Connect With Me Linkedin**
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning Reactjs
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
