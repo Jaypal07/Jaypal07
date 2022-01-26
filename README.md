@@ -6,8 +6,8 @@
 <br>
 
 - 📫 How to reach me **Connect With Me on Linkedin**
-- 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning Reactjs
+- 🔭 I’m currently working on DSA.
+- 🌱 I’m currently learning CPP
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
