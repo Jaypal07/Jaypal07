@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaypal Koli</h1>
-<h3 align="center">I am trying to Figure-Out Stuff!</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <div> </div>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaypal07&label=Profile%20views&color=129e00&style=plastic" alt="jaypal07" /> </p>-->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <br>
 
 - 📫 How to reach me **Connect With Me on Linkedin**
-- 🔭 I’m currently working on DSA.
-- 🌱 I’m currently learning CPP
-- 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I think I am funny XD**
@@ -23,6 +21,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jaypal07&show_icons=true&locale=en" alt="jaypal07" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact" alt="ashutosh-pmishra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaypal07&show_icons=true&locale=en" alt="jaypal07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaypal07" alt="jaypal07" /></p>
 
 
 
