@@ -1,3 +1,4 @@
+[![An image of @jaypal07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaypal07)](https://holopin.io/@jaypal07)
 <h1 align="center">Hi 👋, I'm Jaypal Koli</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <div> </div>
